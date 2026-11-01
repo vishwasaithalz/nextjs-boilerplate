@@ -1,37 +1,46 @@
-# Next.js Starter
+<p align="center"><img src="assets/nextjs-hero.svg" alt="Next.js Starter custom project artwork" width="100%" /></p>
 
-A minimal reusable starting point for web applications, built with the Next.js App Router, TypeScript, and Tailwind CSS.
+<p align="center">
+  <a href="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml"><img src="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml/badge.svg" alt="Next.js starter checks" /></a>
+  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+</p>
 
-## Stack
+<p align="center"><strong>A deliberately minimal foundation for the next web application.</strong></p>
 
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS 4
-- ESLint 9
+<p align="center">[Stack](#-stack) · [Setup](#-setup) · [Quality checks](#-quality-checks) · [Production checklist](#-before-production)</p>
 
-## Requirements
+## 🧱 Stack
 
-- Node.js 20.9 or newer
-- npm
+- Next.js 16 with the App Router.
+- React 19.
+- TypeScript.
+- Tailwind CSS 4.
+- ESLint 9.
 
-## Setup
+## ⚡ Setup
+
+**Requirements:** Node.js 20.9 or newer and npm.
 
 ```powershell
+git clone https://github.com/vishwasaithalz/nextjs-boilerplate.git
+cd nextjs-boilerplate
 npm ci
 npm run dev
 ```
 
-Open http://localhost:3000.
+Open [http://localhost:3000](http://localhost:3000).
 
-## Quality checks
+## 🧪 Quality checks
 
 ```powershell
 npm run lint
 npm run build
 ```
 
-## Project structure
+## 🗂️ Project structure
 
 ```text
 app/
@@ -41,17 +50,26 @@ app/
 public/         Static assets
 ```
 
-## Before production
+## 🔐 Before production
 
-- Replace the starter page and metadata with product-specific content.
+- Replace starter content and metadata with product-specific information.
 - Validate server-side environment variables.
 - Never expose secrets through `NEXT_PUBLIC_*` variables.
 - Keep `.env.local` out of version control.
-- Add authentication, authorization, and tests when the application requires them.
-- Review security headers and deployment settings.
+- Add authentication, authorisation, and tests when the application requires them.
+- Review security headers, accessibility, performance, and deployment settings.
 
-## Documentation
+## 🗺️ Roadmap
 
-- https://nextjs.org/docs
-- https://www.typescriptlang.org/docs/
-- https://tailwindcss.com/docs
+- [ ] Add a small accessible component example.
+- [ ] Document environment configuration.
+- [ ] Add a minimal page and API test strategy.
+- [ ] Keep the starter lean; add dependencies only when needed.
+
+## 📚 References
+
+- [Next.js documentation](https://nextjs.org/docs)
+- [TypeScript documentation](https://www.typescriptlang.org/docs/)
+- [Tailwind CSS documentation](https://tailwindcss.com/docs)
+
+<p align="center"><sub>Start clean. Add only what the product needs.</sub></p>
