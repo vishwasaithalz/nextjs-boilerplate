@@ -13,8 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Starter",
-  description: "A reusable Next.js foundation with TypeScript and Tailwind CSS.",
+  title: {
+    default: "Northstar | Next.js Starter Kit",
+    template: "%s | Northstar",
+  },
+  description:
+    "A polished, deliberately lean Next.js starter built with React, TypeScript and Tailwind CSS. Start with a stronger foundation.",
+  applicationName: "Northstar Starter Kit",
+  robots: {
+    index: false,
+    follow: false,
+  },
 };
 
 export default function RootLayout({
