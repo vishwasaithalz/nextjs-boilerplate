@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Northstar | Next.js Starter Kit",
-    template: "%s | Northstar",
+    default: "Forge UI | KARMA Component Workshop",
+    template: "%s | Forge UI",
   },
   description:
-    "A polished, deliberately lean Next.js starter built with React, TypeScript and Tailwind CSS. Start with a stronger foundation.",
-  applicationName: "Northstar Starter Kit",
+    "Interactive React component workshop with live previews, design tokens and copyable JSX. Built on Next.js 16 and Tailwind CSS 4.",
+  applicationName: "Forge UI Component Workshop",
   robots: {
     index: false,
     follow: false,
