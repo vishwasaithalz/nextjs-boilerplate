@@ -73,3 +73,16 @@ public/         Static assets
 - [Tailwind CSS documentation](https://tailwindcss.com/docs)
 
 <p align="center"><sub>Start clean. Add only what the product needs.</sub></p>
+
+
+<!-- KARMA VISUAL IDENTITY: START -->
+<div align="center">
+
+**WEB FOUNDATION / NEXT.JS**
+
+<img src="https://img.shields.io/badge/KARMA-SYSTEMS-0f172a?style=for-the-badge" alt="KARMA Systems" /> <img src="https://img.shields.io/badge/BUILD-VERIFY-0f766e?style=for-the-badge" alt="Build and verify" />
+
+<sub>Designed for clarity. Built for evidence. No invented status metrics.</sub>
+
+</div>
+<!-- KARMA VISUAL IDENTITY: END -->
