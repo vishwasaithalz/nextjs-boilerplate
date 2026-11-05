@@ -96,3 +96,10 @@ public/         Static assets
 <!-- KARMA AVATAR GALLERY -->
 <p align="center"><img src="assets/karma-avatar.svg" width="112" alt="nextjs-boilerplate original illustrated animated avatar" /></p>
 <p align="center"><a href="https://karma-ops-monitor.vercel.app/#gallery">Explore the animated project gallery</a></p>
+
+
+### Original motion gallery
+
+![nextjs-boilerplate original animated project signal](assets/karma-motion.gif)
+
+[Download this project's GIF](assets/karma-motion.gif) · [View the animated SVG](assets/karma-signal.svg)
