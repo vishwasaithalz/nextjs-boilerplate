@@ -10,7 +10,7 @@
 
 <p align="center"><strong>A deliberately minimal foundation for the next web application.</strong></p>
 
-<p align="center">[Stack](#-stack) · [Setup](#-setup) · [Quality checks](#-quality-checks) · [Production checklist](#-before-production)</p>
+<p align="center"><a href="#-stack">Stack</a> · <a href="#-setup">Setup</a> · <a href="#-quality-checks">Quality checks</a> · <a href="#-before-production">Production checklist</a></p>
 
 ## 🧱 Stack
 
