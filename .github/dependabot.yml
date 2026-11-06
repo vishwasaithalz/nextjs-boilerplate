@@ -9,6 +9,11 @@ updates:
       time: "04:00"
       timezone: "Asia/Kolkata"
     open-pull-requests-limit: 5
+    ignore:
+      # eslint-config-next 16.2.4 currently pulls ESLint plugins with ^9 peer ranges.
+      # Revisit once the Next plugin stack supports ESLint 10 in CI.
+      - dependency-name: "eslint"
+        update-types: ["version-update:semver-major"]
     groups:
       development-dependencies:
         dependency-type: "development"
