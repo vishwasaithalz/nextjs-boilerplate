@@ -1,4 +1,21 @@
+<!-- VISHWAS.EXE UNIFIED THEME START -->
+<p align="center"><a href="https://github.com/vishwasaithalz/nextjs-boilerplate"><img src="https://raw.githubusercontent.com/vishwasaithalz/vishwasaithalz/main/assets/brand/vishwas-exe-nextjs-boilerplate.svg" width="100%" alt="VISHWAS.EXE uniform retro GitHub interface for Next.js Boilerplate, created by Vishwas Aithal" /></a></p>
+<p align="center"><strong>VISHWAS.EXE / Next.js Boilerplate</strong><br/>Modern web starter and technical foundation<br/><sub>Designed and built by <strong>Vishwas Aithal</strong> · Same computer universe, its own personality</sub></p>
+<p align="center">
+  <a href="https://vishwasaithalz.github.io/vishwasaithalz/"><strong>💾 BOOT MANAGER</strong></a> &nbsp;·&nbsp;
+  <a href="https://vishwasaithalz.github.io/vishwasaithalz/overload/"><strong>🖥️ OVERLOAD OS</strong></a> &nbsp;·&nbsp;
+  <a href="https://vishwasaithalz.github.io/vishwasaithalz/arcade/"><strong>🎮 ARCADE</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/vishwasaithalz?tab=repositories"><strong>📁 ALL PROJECTS</strong></a> &nbsp;·&nbsp;
+  <a href="https://vishwasaithal.ai.studio/"><strong>🌐 PORTFOLIO</strong></a>
+</p>
+<!-- VISHWAS.EXE UNIFIED THEME END -->
+
+<details>
+<summary><strong>🎞 Open legacy project visuals and original navigation</strong></summary>
+
 <p align="center"><img src="assets/nextjs-hero.svg" alt="Next.js Starter custom project artwork" width="100%" /></p>
+
+</details>
 
 <p align="center">
   <a href="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml"><img src="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml/badge.svg" alt="Next.js starter checks" /></a>
