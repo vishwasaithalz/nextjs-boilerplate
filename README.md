@@ -1,21 +1,18 @@
 <!-- VISHWAS.EXE UNIFIED THEME START -->
-<p align="center"><a href="https://github.com/vishwasaithalz/nextjs-boilerplate"><img src="https://raw.githubusercontent.com/vishwasaithalz/vishwasaithalz/main/assets/brand/vishwas-exe-nextjs-boilerplate.svg" width="100%" alt="VISHWAS.EXE uniform retro GitHub interface for Next.js Boilerplate, created by Vishwas Aithal" /></a></p>
-<p align="center"><strong>VISHWAS.EXE / Next.js Boilerplate</strong><br/>Modern web starter and technical foundation<br/><sub>Designed and built by <strong>Vishwas Aithal</strong> · Same computer universe, its own personality</sub></p>
-<p align="center">
-  <a href="https://vishwasaithalz.github.io/vishwasaithalz/"><strong>💾 BOOT MANAGER</strong></a> &nbsp;·&nbsp;
-  <a href="https://vishwasaithalz.github.io/vishwasaithalz/overload/"><strong>🖥️ OVERLOAD OS</strong></a> &nbsp;·&nbsp;
-  <a href="https://vishwasaithalz.github.io/vishwasaithalz/arcade/"><strong>🎮 ARCADE</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/vishwasaithalz?tab=repositories"><strong>📁 ALL PROJECTS</strong></a> &nbsp;·&nbsp;
-  <a href="https://vishwasaithal.ai.studio/"><strong>🌐 PORTFOLIO</strong></a>
-</p>
+<p align="center"><a href="https://github.com/vishwasaithalz/nextjs-boilerplate"><img src="https://raw.githubusercontent.com/vishwasaithalz/vishwasaithalz/main/assets/brand/vishwas-exe-nextjs-boilerplate.svg" width="100%" alt="Next.js Boilerplate. Original editorial illustration by Vishwas Aithal." /></a></p>
+
+<p align="center"><a href="https://vishwasaithalz.github.io/vishwasaithalz/">Personal index</a> &nbsp;·&nbsp; <a href="https://github.com/vishwasaithalz?tab=repositories">All projects</a> &nbsp;·&nbsp; <a href="https://vishwasaithal.ai.studio/">Portfolio</a></p>
 <!-- VISHWAS.EXE UNIFIED THEME END -->
 
 <details>
-<summary><strong>🎞 Open legacy project visuals and original navigation</strong></summary>
+<summary>Earlier artwork and navigation</summary>
 
 <p align="center"><img src="assets/nextjs-hero.svg" alt="Next.js Starter custom project artwork" width="100%" /></p>
 
 </details>
+
+<details>
+<summary>Build and technology badges</summary>
 
 <p align="center">
   <a href="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml"><img src="https://github.com/vishwasaithalz/nextjs-boilerplate/actions/workflows/tests.yml/badge.svg" alt="Next.js starter checks" /></a>
@@ -24,6 +21,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
 </p>
+</details>
 
 <p align="center"><strong>A deliberately minimal foundation for the next web application.</strong></p>
 
